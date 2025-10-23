@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-252.26830.84">
+    <data-source name="fitness@ep-lingering-cherry-ad3xf1zf-pooler.c-2.us-east-1.aws.neon.tech" uuid="e138388a-fbde-415f-8eb6-7bddaa971bd0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
+      <user-name>neondb_owner</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="fitness@cluster0.slnibwd.mongodb.net" uuid="02deb9c8-e123-448d-9f6a-054cbde258ff">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" />
+      <user-name>rajeevranjan9560807144</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
