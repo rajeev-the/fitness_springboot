@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe485b8-5c29-4d22-8122-e990c939b9e5" name="Changes" comment="add aiservices">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activityservice/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activityservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/Config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/Config/WebClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/Service/ActivityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/Service/ActivityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activityservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiservice/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Recommendation.java" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Recommendation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +44,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,12 +64,20 @@
     &quot;accountId&quot;: &quot;9bcea525-1899-4405-a84a-eb69bef290e9&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="openjdk-25" />
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -84,20 +108,23 @@
     "Spring Boot.ActivityserviceApplication.executor": "Run",
     "Spring Boot.AiserviceApplication (1).executor": "Run",
     "Spring Boot.AiserviceApplication.executor": "Run",
+    "Spring Boot.ConfigserverApplication.executor": "Run",
     "Spring Boot.EurekaApplication.executor": "Run",
+    "Spring Boot.GatwayApplication.executor": "Run",
     "Spring Boot.UserserviceApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/rajeevranjan/Downloads/fitness",
+    "last_opened_file_path": "C:/Users/sko98/Downloads/fitness/aiservice/src/main/java/com/fitness/aiservice/model",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "spring",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -108,6 +135,10 @@
       <recent name="com.fitness.activityservice.Service" />
       <recent name="com.fitness.activityservice.model" />
       <recent name="com.fitness.userservice.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sko98\Downloads\fitness\aiservice\src\main\java\com\fitness\aiservice\model" />
+      <recent name="C:\Users\sko98\Downloads\fitness\activityservice\src\main\java\com\fitness\activityservice\model" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -121,7 +152,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AiserviceApplication">
+  <component name="RunManager" selected="Spring Boot.GatwayApplication">
     <configuration name="ActivityserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="activityservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.activityservice.ActivityserviceApplication" />
@@ -130,15 +161,35 @@
       </method>
     </configuration>
     <configuration name="AiserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="GEMINI_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" />
+        <env name="GEMINI_KEY" value="AIzaSyDhUwPeUVu5tD-A0BK0Q4X6IvFdMrpsxeo" />
+      </envs>
       <module name="aiservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.aiservice.AiserviceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConfigserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="configserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.configserver.ConfigserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="eureka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gatway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.gatway.GatwayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,6 +201,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConfigserverApplication" />
+      <item itemvalue="Spring Boot.GatwayApplication" />
+      <item itemvalue="Spring Boot.ActivityserviceApplication" />
+      <item itemvalue="Spring Boot.AiserviceApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.UserserviceApplication" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -172,7 +231,16 @@
       <workItem from="1761114220036" duration="78000" />
       <workItem from="1761114455823" duration="181000" />
       <workItem from="1761114701631" duration="25534000" />
-      <workItem from="1761239804254" duration="5740000" />
+      <workItem from="1761239804254" duration="14401000" />
+      <workItem from="1761333363437" duration="667000" />
+      <workItem from="1761334076042" duration="7576000" />
+      <workItem from="1761417469256" duration="11238000" />
+      <workItem from="1761514828035" duration="55000" />
+      <workItem from="1761514994947" duration="26000" />
+      <workItem from="1761515090550" duration="57000" />
+      <workItem from="1761515170947" duration="12000" />
+      <workItem from="1761515212577" duration="32000" />
+      <workItem from="1761515307582" duration="6911000" />
     </task>
     <task id="LOCAL-00001" summary="add aiservices">
       <option name="closed" value="true" />
@@ -210,5 +278,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add aiservices" />
     <option name="LAST_COMMIT_MESSAGE" value="add aiservices" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/ActvityAiService.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

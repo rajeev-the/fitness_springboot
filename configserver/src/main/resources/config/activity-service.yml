@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: activity-service
+
+  data:
+    mongodb:
+      uri: mongodb+srv://rajeevranjan9560807144:ofvHncQbFvTYY0Bb@cluster0.slnibwd.mongodb.net/fitness?retryWrites=true&w=majority&appName=Cluster0
+
+
+  kafka:
+    bootstrap-servers: localhost:9092
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+      properties:
+        spring.json.add.type.headers: false
+    topic:
+      name: activity-events
+
+
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+    registerWithEureka: true
+    fetchRegistry: true
+
+server:
+  port: 8082
