@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe485b8-5c29-4d22-8122-e990c939b9e5" name="Changes" comment="add aiservices">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activityservice/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activityservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/Config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/Config/WebClientConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/Service/ActivityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/Service/ActivityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activityservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aiservice/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aiservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Recommendation.java" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Recommendation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aiservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userservice/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/src/main/resources/config/gatway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/gatway-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatway/src/main/java/com/fitness/gatway/GatwayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gatway/src/main/java/com/fitness/gatway/GatwayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gatway/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +227,7 @@
       <workItem from="1761515090550" duration="57000" />
       <workItem from="1761515170947" duration="12000" />
       <workItem from="1761515212577" duration="32000" />
-      <workItem from="1761515307582" duration="6911000" />
+      <workItem from="1761515307582" duration="9163000" />
     </task>
     <task id="LOCAL-00001" summary="add aiservices">
       <option name="closed" value="true" />
